@@ -1,0 +1,558 @@
+.ch_body{
+	background-color: #f5f5f5;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 100%;
+}
+.ch_body .ch_title{
+	height: 58px;
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ch_body .ch_title span{
+	margin-top: 20px;
+	float: left;
+	font-size: 25px;
+	font-weight: 300;
+}
+.ch_body .ch_title .btn{
+	margin-top: 20px;
+	float: right;
+}
+.ch_body .ch_title .btn button{
+	width: 36px;
+}
+.ch_body .ch_link1{
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 340px;
+	width: 1226px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link1 div:nth-last-child(5){
+	width: 18%;
+	height: 340px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #f1eded ;
+}
+.ch_body .ch_link1 div:nth-last-child(5) span{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link1 div:nth-last-child(5) span{
+	color: #FF7F50;
+	font-size: 20px;
+}
+.ch_body .ch_link1 div:nth-last-child(5) img{
+	height: 30%;
+	width: 100%;
+}
+.ch_body .ch_link1 div:nth-last-child(5) div{
+	margin-top: 20px;
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.ch_body .ch_link1 div:nth-last-child(5) div input{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 550;
+	width: 46px;
+	height: 46px;
+	color: #F5F5F5;
+	background-color: #B0B0B0;
+	border: 1px solid #B0B0B0;
+}
+.ch_body .ch_link1 div:nth-last-child(5) div span{
+	width: 5px;
+	color: #000000;
+	margin-top: 20px;
+}
+.ch_body .ch_link1 div:nth-last-child(4){
+	width: 19%;
+	height: 340px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	background-color: white;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .img_ll{
+	height: 60%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .img_ll img{
+	height: 51px;
+	width: 39px;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .text{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .text div{
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .text div span{
+	margin-top: 10px;
+	width: 20%;
+	color: #FF7F50;
+}
+.ch_body .ch_link1 div:nth-last-child(4) .text div del{
+	margin-top: 10px;
+	width: 20%;
+}
+.ch_body .ch_link1 div:nth-last-child(3) {
+	width: 19%;
+	background-color: white;
+	border-top: 1px solid green;
+	height: 340px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .img_ll{
+	height: 60%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .img_ll img{
+	height: 51px;
+	width: 39px;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .text{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .text div{
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .text div span{
+	margin-top: 10px;
+	width: 20%;
+	color: #FF7F50;
+}
+.ch_body .ch_link1 div:nth-last-child(3) .text div del{
+	margin-top: 10px;
+	width: 20%;
+}
+.ch_body .ch_link1 div:nth-last-child(2) {
+	width: 19%;
+	height: 340px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	background-color: white;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .img_ll{
+	height: 60%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .img_ll img{
+	height: 51px;
+	width: 39px;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .text{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .text div{
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .text div span{
+	margin-top: 10px;
+	width: 20%;
+	color: #FF7F50;
+}
+.ch_body .ch_link1 div:nth-last-child(2) .text div del{
+	margin-top: 10px;
+	width: 20%;
+}
+
+.ch_body .ch_link1 .foot {
+	width: 19%;
+	background-color: white;
+	height: 340px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+.ch_body .ch_link1 .foot .img_ll{
+	height: 60%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.ch_body .ch_link1 .foot .img_ll img{
+	height: 51px;
+	width: 39px;
+}
+.ch_body .ch_link1 .foot .text{
+	height: 20%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link1 .foot .text div{
+	display: flex;
+	width: 100%;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link1 .foot .text div span{
+	margin-top: 10px;
+	width: 20%;
+	color: #FF7F50;
+}
+.ch_body .ch_link1 .foot .text div del{
+	margin-top: 10px;
+	width: 20%;
+}
+/*第二模块*/
+.ch_body .ch_link2{
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 120px;
+	width: 1226px;
+}
+.ch_body .ch_link3{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 58px;
+	width: 1226px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link3 div{
+	width: 8%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link3 div div{
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: #b0b0b0;
+	text-align: center;
+	font-size: 14px;
+	font-weight: 550;
+	color: white;
+}
+.ch_body .ch_link3 div div span{
+	position: relative;
+	left: 5px;
+	top: 0px;
+}
+.ch_body .ch_link4{
+	margin-left: auto;
+	margin-right: auto;
+	height: 614px;
+	width: 1226px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link4 .left {
+	width: 18%;
+}
+.ch_body .ch_link4 .left img{
+	height: 100%;
+	width: 100%;
+}
+.ch_body .ch_link4 .right {
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.ch_body .ch_link4 .right .top{
+	height: 48%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link4 .right .top div{
+	width: 23.5%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	background-color: white;
+}
+.ch_body .ch_link4 .right .top div div{
+	height: 30%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link4 .right .top div div span{
+	height: 33.3%;
+}
+.ch_body .ch_link4 .right .top div img{
+	height: 40%;
+}
+.ch_body .ch_link4 .right .bottom{
+	height: 48%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link4 .right .bottom div{
+	width: 23.5%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	background-color: white;
+}
+.ch_body .ch_link4 .right .bottom div div{
+	height: 30%;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ch_body .ch_link4 .right .bottom div div span{
+	height: 33.3%;
+}
+.ch_body .ch_link4 .right .bottom div img{
+	height: 40%;
+}
+
+.ch_body .ch_link5{
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 120px;
+	width: 1226px;
+}
+.ch_body .ch_link4 .right .top div:hover{
+	box-shadow: 2px 2px 5px #888888;
+}
+.ch_body .ch_link4 .right .top div div:hover{
+	box-shadow: 0 0 0 0;
+}
+.ch_body .ch_link4 .right .bottom div:hover{
+	box-shadow: 2px 2px 5px #888888;
+}
+.ch_body .ch_link4 .right .bottom div div:hover{
+	box-shadow: 0 0 0 0;
+}
+.ch_body .ch_link6{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	height: 58px;
+	width: 1226px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link6 div{
+	width: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link6 div a span:hover{
+	text-decoration: #FF7F50;
+	color: #FF7F50;
+	border-bottom: 2px solid #FF7F50;
+	cursor: pointer;
+}
+.ch_body .ch_link7{
+	height: 300px;
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link7 .link1{
+	width: 18%;
+	height: 100%;
+}
+.ch_body .ch_link7 .link1 img{
+	width: 100%;
+	height: 100%;
+}
+.ch_body .ch_link7 .link2{
+	width: 18%;
+	height: 100%;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+}
+.ch_body .ch_link7 .link2 img{
+	height: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ch_body .ch_link7 .link2 div{
+	height: 20%;
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+}
+.ch_body .ch_link7 .link2 div span{
+	height: 20%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link7 .link2 div div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link7 .link2 div div span{
+	position: relative;
+	left: -10px;
+}
+.ch_body .ch_link8{
+	margin-top: 20px;
+	height: 300px;
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.ch_body .ch_link8 .link1{
+	width: 18%;
+	height: 100%;
+}
+.ch_body .ch_link8 .link1 img{
+	width: 100%;
+	height: 100%;
+}
+.ch_body .ch_link8 .link2{
+	width: 18%;
+	height: 100%;
+	background-color: white;
+}
+
+.ch_body .ch_link8 .link2{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+}
+.ch_body .ch_link8 .link2 img{
+	height: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ch_body .ch_link8 .link2 div{
+	height: 20%;
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+}
+.ch_body .ch_link8 .link2 div span{
+	height: 20%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link8 .link2 div div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.ch_body .ch_link8 .link2 div div span{
+	position: relative;
+	left: -10px;
+}
+.ch_body .ch_link8 .last{
+	width: 18%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.ch_body .ch_link8 .last div{
+	height: 48%;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: center;
+}
+.ch_body .ch_link8 .last div span{
+	margin-left: 10px;
+}
+.ch_body .ch_link8 .last div div{
+	width: 50%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
+

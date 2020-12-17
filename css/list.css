@@ -1,0 +1,228 @@
+.ch_body .ch_link9{
+    margin-left: auto;
+    margin-right: auto;
+    height: 866px;
+    width: 1226px;
+}
+.ch_body .ch_link9 img{
+    margin-top: 40px;
+    height: 120px;
+    width: 100%;
+}
+.ch_body .ch_link9 .div1{
+    margin-top: 30px;
+    height: 58px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+.ch_body .ch_link9 .div1 span{
+    margin-top: 10px;
+    width: 10%;
+}
+.ch_body .ch_link9 .div1 div{
+    margin-top: 10px;
+    width: 9%;
+    float: right;
+}
+.ch_body .ch_link9 .div1 div a:hover{
+    border-bottom: 2px solid #FF7F50;
+}
+.ch_body .ch_link9 .div2{
+    height: 620px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.ch_body .ch_link9 .div2 .top {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ch_body .ch_link9 .div2 .top img{
+    margin-top: 0;
+    width: 18%;
+    height: 100%;
+}
+.ch_body .ch_link9 .div2 .top ul{
+    width: 18.5%;
+    height: 100%;
+    background-color: white;
+}
+.ch_body .ch_link9 .div2 .top ul img{
+    height: 160px;
+    width: 160px;
+    margin-left: 30px;
+    border: none;
+}
+.ch_body .ch_link9 .div2 .top ul div{
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}
+.ch_body .ch_link9 .div2 .top ul a:hover{
+    color: initial !important;
+}
+.ch_body .ch_link9 .div2 .top ul div span{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ch_body .ch_link9 .div2 .bottom {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ch_body .ch_link9 .div2 .bottom img{
+    margin-top: 0;
+    width: 18%;
+    height: 100%;
+}
+.ch_body .ch_link9 .div2 .bottom ul{
+    width: 18.5%;
+    height: 100%;
+    background-color: white;
+}
+.ch_body .ch_link9 .div2 .bottom ul img{
+    height: 160px;
+    width: 160px;
+    margin-left: 30px;
+    border: none;
+}
+.ch_body .ch_link9 .div2 .bottom ul div{
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}
+.ch_body .ch_link9 .div2 .bottom ul a:hover{
+    color: initial !important;
+}
+.ch_body .ch_link9 .div2 .bottom ul div span{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ch_body .ch_link9 .div2 .bottom .last{
+    width: 18.5%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    background-color: initial !important;
+}
+.ch_body .ch_link9 .div2 .bottom .last li{
+    height: 48%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.ch_body .ch_link9 .div2 .bottom .last li a div{
+    position: relative;
+    top: -40px;
+    left: 10px;
+}
+.ch_body .ch_link9 .div2 .bottom .last li a img{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.ch_body .ch_link9 .div2 .bottom .last .li1 div{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.ch_body .ch_ink10{
+    margin-top: 50px;
+    height: 483px;
+    width: 1226px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ch_body .ch_link10 img{
+    height: 120px;
+}
+.ch_body .ch_ink10 #ch9_title{
+    height: 58px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ch_body .ch_ink10 #ch9_title span{
+    margin-top: 15px;
+}
+.ch_body .ch_ink10 #ch9_title #list{
+    margin-top: 0;
+    width: 7.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ch_body .ch_ink10 #ch9_title #list div{
+    margin-top: 17px;
+    height: 20px;
+    width: 20px;
+    background-color: gray;
+    text-align: center;
+    align-content: center;
+    color: white;
+    border-radius: 50%;
+}
+.ch_body .ch_ink10 #ch9_title #list div span{
+    position: relative;
+    top: -3px;
+}
+.ch_body .ch_ink10 .photo{
+    height: 299px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ch_body .ch_ink10 .photo div{
+    width: 296px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
+.ch_body .ch_ink10 .photo div img{
+    height: 180px;
+}
+.ch_body .ch_ink10 .photo div div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.ch_body .ch_ink10 .photo div div span{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+
+
+
+

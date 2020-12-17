@@ -1,0 +1,17 @@
+.foot2{
+    height: 20px;
+    width: 100%;
+    background-color:#f1eded ;
+}
+.foot{
+    width: 100%;
+    background-color: white;
+}
+.foot div{
+    width: 1226px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foot div p{
+    margin-top: 20px;
+}

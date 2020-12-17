@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: coral;
+}
+ul li{
+	list-style: none;
+}
+.container{
+	height: 100%;
+	width: 100%;
+}
+@media screen and (max-width: 1226px) {
+	.container{
+		height: 100%;
+		width: 1226px;
+	}
+}
+.body{
+	font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;;
+}
